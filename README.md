@@ -1,2 +1,3 @@
 # workshopexample1
-Testing for the workshop
+#Thank you for coming to the workshop!
+
